@@ -1,0 +1,9 @@
+This class is testing Dog objects.  Their names and ages are:
+Fido	:	 3
+Sparky	:	 5
+Yuki	:	 2
+Yuki just had a birthday.  Her new age is 3.
+After the birthday, their names, ages, and human ages are:
+Fido	:	 3	:	 21
+Imadog	:	 5	:	 35
+Yuki	:	 3	:	 21

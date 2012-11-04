@@ -1,0 +1,43 @@
+C:\Users\hexfury\Desktop\CS 1073\Assign3>java Assign3
+Please input the first integer for comparison:
+1
+Please input the second integer for comparison:
+5
+Please input the third integer for comparison:
+7
+Please input the fourth integer for comparison:
+4
+Not Alternating
+
+C:\Users\hexfury\Desktop\CS 1073\Assign3>java Assign3
+Please input the first integer for comparison:
+3
+Please input the second integer for comparison:
+8
+Please input the third integer for comparison:
+-1
+Please input the fourth integer for comparison:
+2
+Alternating
+
+C:\Users\hexfury\Desktop\CS 1073\Assign3>java Assign3
+Please input the first integer for comparison:
+9
+Please input the second integer for comparison:
+8
+Please input the third integer for comparison:
+10
+Please input the fourth integer for comparison:
+4
+Alternating
+
+C:\Users\hexfury\Desktop\CS 1073\Assign3>java Assign3
+Please input the first integer for comparison:
+-3
+Please input the second integer for comparison:
+5
+Please input the third integer for comparison:
+5
+Please input the fourth integer for comparison:
+6
+Not Alternating

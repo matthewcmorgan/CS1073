@@ -1,0 +1,37 @@
+C:\Users\hexfury\Desktop\CS 1073\Assign4>java Geometric
+Please enter a number to test the series, between -1 and 1
+.9
+The value of r is:      0.9
+The number of iterations was:   153.0
+The value of the formula was:   1.0000000898145074
+The difference between last iteration and current was:  9.979390869219174E-9
+
+C:\Users\hexfury\Desktop\CS 1073\Assign4>java Geometric
+Please enter a number to test the series, between -1 and 1
+.9999
+The value of r is:      0.9999
+The number of iterations was:   92101.0
+The value of the formula was:   1.00009997798285
+The difference between last iteration and current was:  9.999797878634809E-9
+
+C:\Users\hexfury\Desktop\CS 1073\Assign4>java Geometric
+Please enter a number to test the series, between -1 and 1
+-.99999999
+The value of r is:      -0.99999999
+The number of iterations was:   1.911382773E9
+The value of the formula was:   1.000000005
+The difference between last iteration and current was:  9.99999993922529E-9
+
+C:\Users\hexfury\Desktop\CS 1073\Assign4>java Geometric
+Please enter a number to test the series, between -1 and 1
+1
+Number out of range or would divide by zero.  Please enter a value greater than
+-1 and less than 1.
+-1
+Number out of range or would divide by zero.  Please enter a value greater than
+-1 and less than 1.
+.5
+The value of r is:      0.5
+The number of iterations was:   26.0
+The value of the formula was:   1.0000000074505806
+The difference between last iteration and current was:  7.450580818968433E-9

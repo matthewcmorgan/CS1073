@@ -1,0 +1,4 @@
+Andrew's event: CSOlympicsEvent[eventName=Coin curling, location=CSA Lounge, maxPoints=50, organizer=Andrew]
+Trish's event:  CSOlympicsEvent[eventName=Mini golf, location=Sunken Lounge, maxPoints=10, organizer=Trish]
+Matthew's event: CSOlympicsEvent[eventName=Dodgeball, location=SUB Ballroom, maxPoints=250, organizer=Matthew]
+Brayden's event: CSOlympicsEvent[eventName=Ball drop, location=ITC Courtyard, maxPoints=150, organizer=Brayden]

@@ -1,0 +1,27 @@
+The first line segment travels between:
+CartesianPoint[ x=0.0, y=0.0 ] and CartesianPoint[ x=0.0, y=5.0 ]
+The second line segment travels between:
+CartesianPoint[ x=2.0, y=5.0 ] and CartesianPoint[ x=2.0, y=7.0 ]
+The third line segment travels between:
+CartesianPoint[ x=1.0, y=5.0 ] and CartesianPoint[ x=6.0, y=5.0 ]
+The fourth line segment travels between:
+CartesianPoint[ x=2.0, y=5.0 ] and CartesianPoint[ x=7.3, y=10.1 ]
+The fifth line segment travels between:
+CartesianPoint[ x=0.0, y=-3.0 ] and CartesianPoint[ x=10.6, y=7.2 ]
+The sixth line segment travels between:
+CartesianPoint[ x=0.0, y=-3.0 ] and CartesianPoint[ x=10.6, y=3.0 ]
+The seventh line segment travels between:
+CartesianPoint[ x=2.0, y=5.0 ] and CartesianPoint[ x=2.0, y=5.0 ]
+Line 1 is parallel to Line 2
+Line 1 is not parallel to Line 3
+Line 4 is parallel to Line 5
+Line 4 is not parallel to Line 6
+Line 4 is parallel to itself
+Line Segment 1 has a midpoint of: CartesianPoint[ x=0.0, y=2.5 ]
+Line Segment 3 has a midpoint of: CartesianPoint[ x=3.5, y=5.0 ]
+Line Segment 4 has a midpoint of: CartesianPoint[ x=4.65, y=7.55 ]
+Line Segment 7 has a midpoint of: CartesianPoint[ x=2.0, y=5.0 ]
+Line Segment 1 has a length of: 5.0
+Line Segment 3 has a length of: 5.0
+Line Segment 4 has a length of: 7.355270219373317
+Line Segment 7 has a length of: 0.0

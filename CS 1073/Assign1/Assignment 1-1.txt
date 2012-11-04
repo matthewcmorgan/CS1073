@@ -1,0 +1,45 @@
+Matthew Morgan
+3430092
+
+Assignment 1
+
+1. Writing an Algorithm
+
+In order to proceed from the CS ITC Courtyard to IT-D407, the subject of this inquiry should follow this algorithm.
+
+a.  Turn about 180 degrees so you can proceed away from the picnic table.
+b.  Locate the nearest door into the ITC building.  This door should be in the building attachment hallway.
+c.  Turn left to see the doors that lead into the ITC office area.  Proceed carefully as the administration works here and you could be in danger of being voluntold to participate in an upcoming activity.
+d.  Proceed foward until you see a hallway on your left.
+e.  Proceed down this hallway until you locate the stairs going to the ITC-D level.
+f.  Take the stairs up one level.
+g.  At the top of the stairs turn right and proceed down the hall.  You will locate IT-D407, just look for the little signs at the top of the door.
+h.  Rejoice, for you have successfuly found your destination and completed this simple algorithm.
+
+2.  Puzzle Problems
+
+A. In order for the Professor, his student, his daughter and the statue to get out of the building they would have to created a long winded but amusing algorithm to keep the buckets balanced and only damage the statue.
+
+1.  Put statue in bucket1 causing it to fall to the ground and raise bucket 2.
+2.  Put daughter in bucket2 counterbalancing bucket1 + statue and carrying daughter to ground safely.  Bucket 1 (with statue, goes back up).
+3.  Remove statue from bucket1 and place student in.  Student counter-balances daughter, causing her to go back up, but student to end on ground.
+4.  Remove daughter from bucket2 and place statue back in.  Instruct student to get out of bucket1, causing the statue to fall to the ground.
+5.  Have student get in bucket2 with statue.  Have professor get in bucket 1 to descend to saftey.  Student gets out of bucket2, professor gets out of bucket1 and bucket2 (still containing statue) descends to ground.
+6.  Daughter gets in newly raised bucket1, counterbalances statue, and descends to saftey.
+7.  Student removes statue from bucket2, counterbalances daughter in bucket 1, descends to saftey.
+8.  Daughter gets out of bucket1, putting statue in and dropping it to the ground.
+9.  Daughter then gets in bucket 2, descends to ground, steps out and moves quickly to avoid getting smashed by falling statue and bucket 1.
+10.  All members of the expidetion are now safely out of the building. 
+
+B.  This puzzle represents the classic Hanoi Tower problem.  The solution requires a simple algorithm.
+
+1.  Remove pancake1 (smallest) and place on plate3.
+2.  Remove pancake2 (medium) and place on plate2.
+3.  Move pancake1 to top of pancake 2 on plate 2. Plate3 is now empty.
+4.  Move pancake3 to plate3.
+5.  Move pancake1 to plate1.
+6.  Move pancake2 to top of pancake3 on plate3. Plate2 is now empty.
+7.  Move pancake1 to top of pancake2 and pancake3 on plate3.  The pancakes have been moved.
+
+
+

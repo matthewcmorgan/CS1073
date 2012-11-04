@@ -1,0 +1,63 @@
+C:\Users\hexfury\Desktop\CS 1073\Assign4>java Shipping
+What would you like to do?
+1 - Get info for a box
+2 - Get info for a tube
+3 - Quit
+Enter your choice: 2
+Radius (in cm): 5.75
+Height (in cm): 10.0
+The volume is: 1,038.689 cubic centimeters.
+The surface area is: 569.021 square centimeters.
+
+What would you like to do?
+1 - Get info for a box
+2 - Get info for a tube
+3 - Quit
+Enter your choice: 1
+Length (in cm): 6.5
+Width (in cm): 8.0
+Height (in cm): 5.5
+The volume is: 286.000 cubic centimeters.
+The surface area is: 263.500 square centimeters.
+
+What would you like to do?
+1 - Get info for a box
+2 - Get info for a tube
+3 - Quit
+Enter your choice: 2
+Radius (in cm): 10.0
+Height (in cm): 20.0
+The volume is: 6,283.185 cubic centimeters.
+The surface area is: 1,884.956 square centimeters.
+
+What would you like to do?
+1 - Get info for a box
+2 - Get info for a tube
+3 - Quit
+Enter your choice: 1
+Length (in cm): 3.75
+Width (in cm): 3.75
+Height (in cm): 25.0
+The volume is: 351.562 cubic centimeters.
+The surface area is: 403.125 square centimeters.
+
+What would you like to do?
+1 - Get info for a box
+2 - Get info for a tube
+3 - Quit
+Enter your choice: 1
+Length (in cm): 15.0
+Width (in cm): 15.0
+Height (in cm): 20.0
+The volume is: 4,500.000 cubic centimeters.
+The surface area is: 1,650.000 square centimeters.
+
+What would you like to do?
+1 - Get info for a box
+2 - Get info for a tube
+3 - Quit
+Enter your choice: 3
+The container with the largest volume is a tube.
+It's volume is: 6,283.185 cubic centimeters.
+The container with the smallest surface area is a box.
+It's surface area is: 263.500 square centimeters.
