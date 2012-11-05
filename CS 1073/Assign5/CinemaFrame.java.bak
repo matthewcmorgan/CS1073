@@ -5,7 +5,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 import java.text.NumberFormat;
-public class GPACalculatorGUI extends JFrame implements ActionListener {
+public class CinemaFrame extends JFrame implements ActionListener {
 	private JTextField gradeInputField, creditHourInputField;
 	private JLabel pointsLabel, cumulativeGPALabel;
 	private JButton addButton, clearButton;

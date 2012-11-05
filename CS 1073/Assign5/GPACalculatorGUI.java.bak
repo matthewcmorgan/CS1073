@@ -6,7 +6,6 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.text.NumberFormat;
 public class GPACalculatorGUI extends JFrame implements ActionListener {
-
 	private JTextField gradeInputField, creditHourInputField;
 	private JLabel pointsLabel, cumulativeGPALabel;
 	private JButton addButton, clearButton;
@@ -20,9 +19,6 @@ public class GPACalculatorGUI extends JFrame implements ActionListener {
 		JLabel creditHourInputLabel = new JLabel ("Course credit hours: ");
 		creditHourInputField = new JTextField(5);
 		creditHourInputField.setHorizontalAlignment(JTextField.CENTER);
-		
-		//String[] grades = {"A+", "A", "A-", "B+", "B", "B-", "C+", "C", "D", "F", "WF"};
-		//gradeInputBox = new JComboBox(grades);
 		
 		addButton = new JButton("Add to GPA");
 		addButton.setHorizontalTextPosition(SwingConstants.CENTER);
