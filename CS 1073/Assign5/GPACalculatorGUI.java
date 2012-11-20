@@ -97,8 +97,9 @@ public class GPACalculatorGUI extends JFrame implements ActionListener {
 			cumulativeGPA = cumulativePoints / cumulativeCreditHours;
 			cumulativeGPALabel.setText("Your cumulative GPA is: " + f1.format(cumulativeGPA));
 		}else if(e.getSource() == clearButton){
-			cumulativeGPA = 0;
-			cumulativePoints = 0;
+			cumulativeGPA = 0.0;
+			cumulativePoints = 0.0;
+			cumulativeCreditHours = 0.0;
 			pointsLabel.setText("Totals have been reset.");
 			cumulativeGPALabel.setText("Enter your 1st grade & credit hrs.");
 			gradeInputField.setText("");
