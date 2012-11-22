@@ -1,0 +1,52 @@
+/**
+	@author Matthew Morgan - 3430092
+*/
+
+public class TeamRoster{
+		private String[] rosterNames;
+	public TeamRoster(String[] nameIn){
+		rosterNames = new String[nameIn.length];
+		for (int i = 0; i < nameIn.length; i++){
+			rosterNames[i] = nameIn[i];
+		}
+	}
+	
+	public String toString(){
+		String names = "TeamRoster[";
+		for(int i = 0; i < rosterNames.length; i++){
+			names += rosterNames[i] + ", ";
+		}
+		names = names.substring(0, (names.length() - 2));
+		names += "]";
+		return names;
+	}
+	
+	public boolean isOnTeam(String nameIn){
+		boolean test = false;
+		for (int i = 0; i < rosterNames.length; i++){
+			if (nameIn == rosterNames[i]){
+				test = true;
+			}
+		}
+		return test;
+	}
+	
+	public String getPlayer(int i){
+		if (i < rosterNames.length && i >= 0){
+			return rosterNames[i];
+		} else
+		return null;
+	}
+	
+	public boolean replacePlayer(String nameIn, int i){
+		while (i < rosterNames.length && i >= 0){
+			if(rosterNames[i] != nameIn){
+					rosterNames[i] = nameIn;
+					return true;
+			} else {
+				return false;
+			}
+		}
+		return false;
+	}
+}

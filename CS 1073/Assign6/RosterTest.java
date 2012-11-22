@@ -48,5 +48,4 @@ public class RosterTest
       System.out.println("Correct - Player was not replaced.");
      
   } // end main method
-
 } // end class
