@@ -1,0 +1,7 @@
+How many weeks of sales data are desired? 3
+ 	Monday: 	Tuesday: 	Wednesday: 	Thursday: 	Friday:  	Saturday: 	Sunday:  	
+Week01:	$4,086.69	$2,912.34	$1,760.43	$4,229.71	$3,954.34	$3,526.70	$4,615.45
+Week02:	$3,336.63	$3,669.59	$2,764.83	$2,975.91	$3,601.67	$1,328.49	$3,299.42
+Week03:	$2,853.96	$4,491.20	$1,453.82	$2,401.07	$2,600.35	$3,550.26	$4,505.18
+The week with the highest sales was at index 0.
+The average sales for week 1 was $3,583.66.

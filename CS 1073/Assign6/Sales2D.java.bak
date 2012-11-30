@@ -1,6 +1,7 @@
 /**
 	@author Matthew C. Morgan - 3430092
 */
+
 import java.util.Scanner;
 import java.text.NumberFormat;
 public class Sales2D{

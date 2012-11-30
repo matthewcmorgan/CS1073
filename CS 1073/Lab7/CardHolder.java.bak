@@ -1,0 +1,46 @@
+/**
+	@author Matthew Morgan, Scott Warren
+*/
+
+public class CardHolder{
+	private String name;
+	private int aptNum;
+	private String phoneNum;
+	private static int memberNumIn = 1000;
+	private int memberNum;
+	private String[] signedOut;
+	
+	public CardHolder(String nameIn, int aptNumIn, String phoneNumIn){
+		name = nameIn;
+		aptNum = aptNumIn;
+		phoneNum = phoneNumIn;
+		memberNum = memberNumIn;
+		memberNumIn++;
+		signedOut = new LendingItem[7];
+	}
+	
+	public String getName(){
+		return name;
+	}
+	
+	public int getAptNumber(){
+		return aptNum;
+	}
+	public void setPhoneNumber(String phoneNumIn){
+		phoneNum = phoneNumIn;
+	}
+	
+	public String getPhoneNumber(){
+		return phoneNum;
+	}
+	
+	public static int getMembershipNumber(){
+		return memberNum;
+	}
+
+	
+	public LendingItem[] getSignedOutItems(){
+		return signedOut;
+	}
+	
+}

@@ -1,0 +1,10 @@
+TeamRoster[Spassky, Fischer]
+TeamRoster[Charles, Larry, Michael, Earvin, Patrick]
+
+Correct - Michael didn't want Zeke on the team.
+Correct - They had to have Larry Legend.
+Correct - These two names are different.
+Correct - null returned for invalid index.
+Correct - Player was replaced.
+Correct - The Admiral is now playing Center.
+Correct - Player was not replaced.

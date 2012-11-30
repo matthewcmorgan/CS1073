@@ -3,7 +3,7 @@
 */
 
 public class TeamRoster{
-		private String [] rosterNames;
+		private String[] rosterNames;
 	public TeamRoster(String[] nameIn){
 		rosterNames = new String[nameIn.length];
 		for (int i = 0; i < nameIn.length; i++){

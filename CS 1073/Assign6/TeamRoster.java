@@ -1,7 +1,6 @@
 /**
 	@author Matthew Morgan - 3430092
 */
-
 public class TeamRoster{
 		private String[] rosterNames;
 	public TeamRoster(String[] nameIn){
@@ -10,7 +9,6 @@ public class TeamRoster{
 			rosterNames[i] = nameIn[i];
 		}
 	}
-	
 	public String toString(){
 		String names = "TeamRoster[";
 		for(int i = 0; i < rosterNames.length; i++){
@@ -20,7 +18,6 @@ public class TeamRoster{
 		names += "]";
 		return names;
 	}
-	
 	public boolean isOnTeam(String nameIn){
 		boolean test = false;
 		for (int i = 0; i < rosterNames.length; i++){
@@ -30,14 +27,12 @@ public class TeamRoster{
 		}
 		return test;
 	}
-	
 	public String getPlayer(int i){
 		if (i < rosterNames.length && i >= 0){
 			return rosterNames[i];
 		} else
 		return null;
 	}
-	
 	public boolean replacePlayer(String nameIn, int i){
 		while (i < rosterNames.length && i >= 0){
 			if(rosterNames[i] != nameIn){

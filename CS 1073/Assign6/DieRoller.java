@@ -4,12 +4,19 @@
 import java.util.Scanner;
 public class DieRoller{
 	public static void main(String[] args){
-		System.out.print("How many sides on the die? ");
+		int sides = 0, iterations = 0;
 		Scanner sc = new Scanner(System.in);
-		int sides = sc.nextInt();
+		while (sides <= 0){
+			System.out.print("How many sides on the die? ");
+			sides = sc.nextInt();
+		}
 		int[] results = new int[sides];
-		System.out.print("\nHow many rolls? ");
-		int iterations = sc.nextInt();
+		System.out.println();
+		while (iterations <=0){
+			System.out.print("How many rolls? ");
+			iterations = sc.nextInt();
+		}
+		System.out.println();
 		for(int i = 0; i < iterations; i++){
 			int rollResult = (int)(Math.random() * sides); //generate array
 			results[rollResult]++;
