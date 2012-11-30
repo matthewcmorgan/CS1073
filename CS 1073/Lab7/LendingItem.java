@@ -24,6 +24,4 @@ public class LendingItem{
 	public boolean isRestricted(){
 		return restricted;
 	}
-	
-	
 }

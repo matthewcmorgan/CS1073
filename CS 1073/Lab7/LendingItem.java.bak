@@ -21,7 +21,7 @@ public class LendingItem{
 		return price;
 	}
 	
-	pubic boolean isRestricted(){
+	public boolean isRestricted(){
 		return restricted;
 	}
 	
